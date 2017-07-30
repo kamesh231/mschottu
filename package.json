@@ -1,0 +1,25 @@
+{
+  "name": "mschottu",
+  "version": "1.0.0",
+  "description": "AI Powered with MS Bot framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamesh231/mschottu.git"
+  },
+  "keywords": [
+    "AI",
+    "MSBoT",
+    "BOT",
+    "Chottu"
+  ],
+  "author": "Kamesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamesh231/mschottu/issues"
+  },
+  "homepage": "https://github.com/kamesh231/mschottu#readme"
+}
